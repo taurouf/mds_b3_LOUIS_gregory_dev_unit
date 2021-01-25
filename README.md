@@ -6,8 +6,7 @@ npm test
 
 # Dernier build
 
-[![Statut du dernier build Travis ](https://www.travis-ci.com/JulienDupontDev/mds_b3_dupont_julien_dev_unit.svg?branch=main)](https://www.travis-ci.com/JulienDupontDev/mds_b3_dupont_julien_dev_unit)
+[![Statut du dernier build Travis ](https://travis-ci.com/github/taurouf/mds_b3_LOUIS_gregory_dev_unit)](https://travis-ci.com/github/taurouf/mds_b3_LOUIS_gregory_dev_unit)
 
-[![Coverage Status](https://coveralls.io/repos/github/JulienDupontDev/mds_b3_dupont_julien_dev_unit/badge.svg?branch=main)](https://coveralls.io/github/JulienDupontDev/mds_b3_dupont_julien_dev_unit?branch=main)
 
 
